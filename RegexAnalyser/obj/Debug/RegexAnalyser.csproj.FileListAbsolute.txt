@@ -1,0 +1,12 @@
+\\wfs-vmf1-001\FI8F$\falkenhan\Desktop\RegexAnalyser-main\RegexAnalyser\bin\Debug\RegexAnalyser.exe.config
+\\wfs-vmf1-001\FI8F$\falkenhan\Desktop\RegexAnalyser-main\RegexAnalyser\obj\Debug\RegexAnalyser.csprojResolveAssemblyReference.cache
+\\wfs-vmf1-001\FI8F$\falkenhan\Desktop\RegexAnalyser-main\RegexAnalyser\obj\Debug\RegexAnalyser.Form1.resources
+\\wfs-vmf1-001\FI8F$\falkenhan\Desktop\RegexAnalyser-main\RegexAnalyser\obj\Debug\RegexAnalyser.Properties.Resources.resources
+\\wfs-vmf1-001\FI8F$\falkenhan\Desktop\RegexAnalyser-main\RegexAnalyser\obj\Debug\RegexAnalyser.csproj.GenerateResource.Cache
+\\wfs-vmf1-001\FI8F$\falkenhan\Desktop\RegexAnalyser-main\RegexAnalyser\bin\Debug\RegexAnalyser.exe
+\\wfs-vmf1-001\FI8F$\falkenhan\Desktop\RegexAnalyser-main\RegexAnalyser\bin\Debug\RegexAnalyser.pdb
+\\wfs-vmf1-001\FI8F$\falkenhan\Desktop\RegexAnalyser-main\RegexAnalyser\bin\Debug\MySql.Data.DLL
+\\wfs-vmf1-001\FI8F$\falkenhan\Desktop\RegexAnalyser-main\RegexAnalyser\bin\Debug\MySql.Data.Entity.EF5.dll
+\\wfs-vmf1-001\FI8F$\falkenhan\Desktop\RegexAnalyser-main\RegexAnalyser\bin\Debug\MySql.Web.dll
+\\wfs-vmf1-001\FI8F$\falkenhan\Desktop\RegexAnalyser-main\RegexAnalyser\obj\Debug\RegexAnalyser.exe
+\\wfs-vmf1-001\FI8F$\falkenhan\Desktop\RegexAnalyser-main\RegexAnalyser\obj\Debug\RegexAnalyser.pdb
